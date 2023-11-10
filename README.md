@@ -1,6 +1,7 @@
 # Tarefa-Grafo-busca-em-largura-e-busca-em-profundidade
 
 //Stefano Calheiros Stringhini - 2312123 
+
 //Victor Ribeiro Calado - 2313553
 
 1. Faça um rastreamento da busca em largura a partir do vértice 1 no grafo definido pelas arestas: 0-1 0-2 1-3 1-4 1-5 3-6 3-7 5-8 5-9 7-10 7-11 7-12 9-13 9-14. Observe que a busca em largura percorre o grafo por níveis.
